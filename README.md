@@ -26,3 +26,6 @@ git clone https://github.com/MayconPRibeiro/Aula1_Devops_Git_Hub
 
 # 2. Entra na pasta
 cd Aula1_Devops_Git_Hub
+
+# 3. Adivinhe
+Adivinhe o rolê
